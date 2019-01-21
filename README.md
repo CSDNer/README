@@ -28,12 +28,10 @@ CSDN的成员中大多是活跃的中国开发者，这里属于CSDN社区当中
 ## CSDN 官方二维码
 
 ### CSDN博客交流群
-[![CSDN博客交流群](https://csdnimg.cn/release/phoenix/write/assets/image_qqchat.jpg)](doc\images\csdn_blog-qqchat.jpg)
-
+![Alt text](/doc/images/csdn_blog-qqchat.jpg)
 
 ### QQ客服
-[![QQ客服](doc\images\csdn-kf-qq.png)
-
+![Alt text](/doc/images/csdn-kf-qq.png)
 
 ### 微信客服
-[![QQ客服](doc\images\csdn_kf-wechat.png)
+![Alt text](/doc/images/csdn_kf-wechat.png)
