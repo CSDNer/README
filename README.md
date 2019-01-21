@@ -16,7 +16,7 @@
 CSDN的成员中大多是活跃的中国开发者，这里属于CSDN社区当中优秀成员的每一位。其他说明 in process.
 
 ## 如何加入
-[CSDN](https://www.csdn.net/)中每一位成员都可以申请加入，目前暂用[此贴](#)（未做成）作为申请入口。   
+目前暂用[此贴](#)（未做成）作为申请入口。   
 
 暂时申请可以发邮件  sekito.lv@gmail.com 发送github ID 给我即可。
 
@@ -24,3 +24,16 @@ CSDN的成员中大多是活跃的中国开发者，这里属于CSDN社区当中
 - 可在此项目内提交issue。
 
 - [![Join the chat at https://gitter.im/CSDNer/community](https://badges.gitter.im/CSDNer/community.svg)](https://gitter.im/CSDNer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+## CSDN 官方二维码
+
+### CSDN博客交流群
+[![CSDN博客交流群](https://csdnimg.cn/release/phoenix/write/assets/image_qqchat.jpg)](https://csdnimg.cn/release/phoenix/write/assets/image_qqchat.jpg)
+
+
+### QQ客服
+[![QQ客服](https://csdnimg.cn/pubfooter/images/csdn-kf.png)
+
+
+### 微信客服
+[![QQ客服](https://csdnimg.cn/pubfooter/images/csdn_cs_qr.png)
